@@ -12,6 +12,8 @@ KDE Settings & Configurations for:
 
 For each setting & configuration file, it will have the original `path` attached with it. Copy (or link) file to that `path` and KDE will handle the rest.
 
+**IMPORTANT:** do not open KDE System Settings (`systemsettings5`) after copying setting & configuration files. **Reboot** (or **Logout**) first to let files take effects.
+
 ## Settings & Configurations
 
 ### Workspace
